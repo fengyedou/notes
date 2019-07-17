@@ -246,4 +246,4 @@ $ git  push origin master
 
 **纸上得来终觉浅，绝知此事要躬行。**
 
-[某文](https://github.com/zhongwencool)、
+[某文](https://github.com/fengyedou)
